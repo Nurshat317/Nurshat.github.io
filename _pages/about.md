@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-
+I am an undergraduate at [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/).
 My research interests are about computer graphics and computational physics, more specifically, including VR/AR, parallel computing, physics based animation and simulation. Currently, my research is focusing on physics based simulation and animation.
 
-A data-driven personal website
+Research experiences
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Currently, I am doing remote research with Prof. [Joseph Teran](https://www.math.ucla.edu/~jteran/), as an intern, which is about elactic body simulation and solving linear system. Recently, I, as an intern, completed my own research project at the [the Institute of Software, Chinese Academy of Sciences](http://www.iscas.ac.cn/), advised by Prof. [XiaoWei He](https://peridynamics.com/index.html), the work is mainly about new surface tension model of free surface flows simulation for SPH, which was recently submitted to [IEEE VR 2022 Conference](https://ieeevr.org/2022/). I was also got involved in some research about physical simulation in [PHYSIKA](https://github.com/PhysikaTeam/PhysIKA) team and VR at [KLMP] (http://www.klmp.pku.edu.cn/) before joining the Prof. [XiaoWei He](https://peridynamics.com/index.html)'s group: [Peridyno](https://github.com/peridyno/peridyno).
+ 
 
 Getting started
 ======
