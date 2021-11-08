@@ -14,3 +14,6 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+**N. Menglik**, H. Yao, Y. Zheng, J. Shi, Y. Qiao, X. He 
+![Tear](/images/Tear.png)
