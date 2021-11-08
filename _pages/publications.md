@@ -14,8 +14,9 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-**N. Menglik**, H. Yao, Y. Zheng, J. Shi, Y. Qiao, X. He
-[PDF](http://nurshat317.github.io/files/paper1.pdf),  [video]
+**N. Menglik**, H. Yao, Y. Zheng, J. Shi, Y. Qiao, X. He  
+
+[[PDF](http://nurshat317.github.io/files/paper1.pdf)],  [video](http://nurshat317.github.io/videoes/PaperVideo.mp4)
   
    
 > ![Tear](/images/Tear.png)
