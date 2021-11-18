@@ -9,9 +9,10 @@ redirect_from:
 ---
 
 
-I am an undergraduate student at [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). You can find more information about me from my CV [here](http://nurshat317.github.io/files/CV.pdf).
+I am an undergraduate student at [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). Please find more detailed information from my [CV](http://nurshat317.github.io/files/CV.pdf).
 
 Research interests and experiences
+------
 
 My research interests are about computer graphics and computational physics, more specifically, including VR/AR, parallel computing, physics based animation and simulation. Currently, my research is focusing on physics based simulation and animation.
 
