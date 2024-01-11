@@ -11,6 +11,11 @@ author_profile: true
 
 {% include base_path %}
 
+## Toward Improving Boussinesq Flow Simulations by Learning with Compressible Flow
+**Nurshat Mangnike**, David Hyde  
+*Platform for Advanced Scientific Computing (PASC), 2024. (In review)*  
+
+
 ## Semi-Analytical Surface Tension Model for Free Surface Flows
 **N. Menglik**, H. Yao, Y. Zheng, J. Shi, Y. Qiao, X. He  
 *IEEE Conference on Virtual Reality + 3D User Interfaces (IEEE VR), Poster, 2022.*  

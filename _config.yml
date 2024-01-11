@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Nurshat Menglik"
+name                     : &name "Nurshat (Nulixiati) Menglik (Mangnike)"
 description              : &description "personal description"
 url                      : https://nurshat317.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,13 +82,12 @@ analytics:
 author:
   name             : "Nurshat Menglik"
   avatar           : "myphoto.jpg"
-  bio              : "Undergraduate, 
-                         CS, PKU"
-  location         : "Bei Jing, China"
+  bio              : "PhD Student @ Vanderbilt | Computer Science"
+  location         : "Nashville, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "1700012737@pku.edu.cn"
+  email            : "nulixiati.mangnike@vanderbilt.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -100,10 +99,10 @@ author:
   github           : "Nurshat317"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "www.linkedin.com/in/nurshat-menglik"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
