@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nurshat Menglik"
+  name             : "Nurshat (Nulixiati) Menglik (Mangnike)"
   avatar           : "myphoto.jpg"
   bio              : "PhD Student @ Vanderbilt | Computer Science"
   location         : "Nashville, USA"
@@ -96,6 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
+  CV : "http://nurshat317.github.io/files/CV_Nurshat.pdf"
   github           : "Nurshat317"
   google_plus      :
   keybase          :
