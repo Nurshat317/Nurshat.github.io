@@ -14,6 +14,7 @@ author_profile: true
 ## Toward Improving Boussinesq Flow Simulations by Learning with Compressible Flow
 **Nurshat Mangnike**, David Hyde  
 *Platform for Advanced Scientific Computing (PASC), 2024. (In review)*  
+> ![Boussinesq](/images/Boussinesq.png)
 
 
 ## Semi-Analytical Surface Tension Model for Free Surface Flows
