@@ -13,7 +13,7 @@ author_profile: true
 
 ## Toward Improving Boussinesq Flow Simulations by Learning with Compressible Flow
 **Nurshat Mangnike**, [David Hyde](https://dabh.io/#)  
-*Platform for Advanced Scientific Computing (PASC), 2024. *  
+*Platform for Advanced Scientific Computing (PASC), 2024.*  
 ([PDF](http://nurshat317.github.io/files/BoussinesqPaper.pdf))
 > ![Boussinesq](/images/Boussinesq.png)
 
